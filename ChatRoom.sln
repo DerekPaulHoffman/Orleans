@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatRoom.Grains", "ChatRoom.Grains\ChatRoom.Grains.csproj", "{616110D1-158E-41CA-B793-5700CE58591D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatRoom.Silo", "ChatRoom.Silo\ChatRoom.Silo.csproj", "{FE6A8969-3BC7-434C-AC7D-66D8F206E992}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatRoom.Client", "ChatRoom.Client\ChatRoom.Client.csproj", "{3D4E980E-83E2-4558-ADB6-694FFDF3B205}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{616110D1-158E-41CA-B793-5700CE58591D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{616110D1-158E-41CA-B793-5700CE58591D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{616110D1-158E-41CA-B793-5700CE58591D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{616110D1-158E-41CA-B793-5700CE58591D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE6A8969-3BC7-434C-AC7D-66D8F206E992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE6A8969-3BC7-434C-AC7D-66D8F206E992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE6A8969-3BC7-434C-AC7D-66D8F206E992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE6A8969-3BC7-434C-AC7D-66D8F206E992}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D4E980E-83E2-4558-ADB6-694FFDF3B205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D4E980E-83E2-4558-ADB6-694FFDF3B205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D4E980E-83E2-4558-ADB6-694FFDF3B205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D4E980E-83E2-4558-ADB6-694FFDF3B205}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
